@@ -6,6 +6,7 @@ I build and run e-commerce: Magento 2 stores, integrations with the big Brazilia
 
 **Recently**
 
+- [ai-usage-popup](https://github.com/dhanyel/ai-usage-popup): a GTK popup for Linux that shows how much of each AI plan you have used — Claude, Codex, Z.AI, OpenRouter, DeepSeek and Kimi. [v0.1.0](https://github.com/dhanyel/ai-usage-popup/releases/tag/v0.1.0).
 - [crmne/zapfast#370](https://github.com/crmne/zapfast/pull/370): a fix to ZapFast, a native WhatsApp client in Rust, so that a message to a contact who hides read receipts is no longer shown as read.
 
 **Stack**
